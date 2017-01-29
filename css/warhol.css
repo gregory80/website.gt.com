@@ -10,10 +10,20 @@ input,textarea,select,option {
     font-size:12px;
 }
 
+ul {
+    list-style: none;
+}
 
 
 .center_container {
     width:620px;
     margin:150px auto;
 
+}
+
+.center_container p {
+    margin:8px 0 16px;
+}
+.center_container ul li {
+    margin:4px 0 9px;
 }
