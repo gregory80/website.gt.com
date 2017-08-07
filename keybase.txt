@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/gtzilla
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gregorytomlinson.com
+  * I am gtzilla (https://keybase.io/gtzilla) on keybase.
+  * I have a public key ASC0eYdxLw4KSr9EKFTSHJsh46iOPYcY6z7WHp0niACFmgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b47987712f0e0a4abf442854d21c9b21e3a88e3d8718eb3ed61e9d278800859a0a",
+      "host": "keybase.io",
+      "kid": "0120b47987712f0e0a4abf442854d21c9b21e3a88e3d8718eb3ed61e9d278800859a0a",
+      "uid": "be99c545233abb8edd21159be928ec19",
+      "username": "gtzilla"
+    },
+    "merkle_root": {
+      "ctime": 1502128527,
+      "hash": "5218cdadc738a3fedce8292020d8db24e7e411f2375ca5532609da6d113dc90fe3e5f1cb1f083a5fc6ceb0fb6c12bb34408c5044526ffd851f96590731708112",
+      "hash_meta": "f27e0622eea7af082058f4a8318ce36ab88862f64c0ffe66e45ed120d7825307",
+      "seqno": 1310792
+    },
+    "service": {
+      "hostname": "gregorytomlinson.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.26"
+  },
+  "ctime": 1502128565,
+  "expire_in": 504576000,
+  "prev": "61afeee1b5f18a0cb62cfa45e3487e4e8238ca210371ab2ae29867ab07636a81",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtHmHcS8OCkq/RChU0hybIeOojj2HGOs+1h6dJ4gAhZoKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjQ3OTg3NzEyZjBlMGE0YWJmNDQyODU0ZDIxYzliMjFlM2E4OGUzZDg3MThlYjNlZDYxZTlkMjc4ODAwODU5YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjQ3OTg3NzEyZjBlMGE0YWJmNDQyODU0ZDIxYzliMjFlM2E4OGUzZDg3MThlYjNlZDYxZTlkMjc4ODAwODU5YTBhIiwidWlkIjoiYmU5OWM1NDUyMzNhYmI4ZWRkMjExNTliZTkyOGVjMTkiLCJ1c2VybmFtZSI6Imd0emlsbGEifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDIxMjg1MjcsImhhc2giOiI1MjE4Y2RhZGM3MzhhM2ZlZGNlODI5MjAyMGQ4ZGIyNGU3ZTQxMWYyMzc1Y2E1NTMyNjA5ZGE2ZDExM2RjOTBmZTNlNWYxY2IxZjA4M2E1ZmM2Y2ViMGZiNmMxMmJiMzQ0MDhjNTA0NDUyNmZmZDg1MWY5NjU5MDczMTcwODExMiIsImhhc2hfbWV0YSI6ImYyN2UwNjIyZWVhN2FmMDgyMDU4ZjRhODMxOGNlMzZhYjg4ODYyZjY0YzBmZmU2NmU0NWVkMTIwZDc4MjUzMDciLCJzZXFubyI6MTMxMDc5Mn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJncmVnb3J5dG9tbGluc29uLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjYifSwiY3RpbWUiOjE1MDIxMjg1NjUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNjFhZmVlZTFiNWYxOGEwY2I2MmNmYTQ1ZTM0ODdlNGU4MjM4Y2EyMTAzNzFhYjJhZTI5ODY3YWIwNzYzNmE4MSIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBXu8d/Hn6dvqk8mk3GU/HhiPQ+GqdaZQvkbJoElKCwRGiIO3MlVnZbEWcucPxcEXOwCw2QCCKOCqqi9EmEw/QHqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgWs5FzK4kuFdQpSOpligZuaDjru8DcE2k4XdAqf6ma0yjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gtzilla
+
+==================================================================
